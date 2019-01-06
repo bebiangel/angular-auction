@@ -41,3 +41,15 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+app/app.module.ts
+app/components/application/
+app/components/carousel/
+app/components/footer/
+app/components/navbar/
+app/components/product-item/
+app/components/search/
+app/components/stars/
+app/main.ts
+app/services/
+index.html
+systemjs.config.js
